@@ -1,0 +1,5 @@
+name: xTabList
+version: ${project.version}
+main: wtf.violet.xtablist.XTabList
+description: A plugin with the ability to show network-wide variables such as players as ping in the tab header/footer.
+author: Violet M. <vi@violet.wtf>
